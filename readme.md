@@ -17,11 +17,11 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me  
 
-![Python](https://img.shields.io/badge/Python-Expert-green)
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
-![Excel](https://img.shields.io/badge/Excel-Advanced-yellow)
-![Power%20BI](https://img.shields.io/badge/Power_BI-Advanced-yellowgreen)
-![Tableau](https://img.shields.io/badge/Tableau-Advanced-yellowgreen)
+![Python](https://img.shields.io/badge/Python-Advanced-blue)
+![SQL](https://img.shields.io/badge/SQL-Expert-green)
+![Excel](https://img.shields.io/badge/Excel-Specialist-lightgreen)
+![Power%20BI](https://img.shields.io/badge/Power_BI-Expert-green)
+![Tableau](https://img.shields.io/badge/Tableau-Expert-green)
 ![Django](https://img.shields.io/badge/Django-Beginner-lightgrey)
 ![REST%20APIs](https://img.shields.io/badge/REST_APIs-Beginner-lightgrey)
 ![GitHub](https://img.shields.io/badge/GitHub-Intermediate-black)
@@ -57,32 +57,13 @@ Welcome to my GitHub profile!
 
 ## ☕ Connect With Me
 
-<div style="display: flex; gap: 40px; flex-wrap: wrap; align-items: center;">
-
-  <div style="text-align: center;">
-    <a href="https://www.linkedin.com/in/shubham-singh-64827a228/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <div>shubham-singh-64827a228</div>
-  </div>
-
-  <div style="text-align: center;">
-    <a href="mailto:iatco5h@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <div>iatco5h@gmail.com</div>
-  </div>
-
-  <div style="text-align: center;">
-    <a href="tel:9520132466">
-      <img src="https://img.shields.io/badge/Call-9520132466-black?style=for-the-badge&logo=phone&logoColor=white" alt="Call">
-    </a>
-    <div>+91 9520132466</div>
-  </div>
-
-</div>
 
 
 
+| Contact | Link |
+|--------|------|
+| 💼 LinkedIn | [Shubham Singh](https://www.linkedin.com/in/shubham-singh-64827a228/) |
+| 📧 Email | [iatco5h@gmail.com](mailto:iatco5h@gmail.com) |
+| 📞 Phone | [+91 9520132466](tel:+919520132466) |
 
----
+
